@@ -1,6 +1,0 @@
-Female
-	finnish.txt
-Male
-	finnish.txt
-Surname
-	finnish.txt

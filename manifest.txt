@@ -1,0 +1,5 @@
+Version:	1
+
+Female:		finnish.txt
+Male:		finnish.txt
+Surname:	finnish.txt
